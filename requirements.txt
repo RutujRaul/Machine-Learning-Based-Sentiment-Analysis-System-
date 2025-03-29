@@ -1,0 +1,4 @@
+Flask
+TextBlob
+matplotlib
+pymongo
